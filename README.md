@@ -75,25 +75,14 @@ Currently exploring ML and working on <a href="https://heroic-twilight-d6f195.ne
 <!-- GitHub Stats Section -->
 <h2>📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashvath-411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvath-411&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashvath-411&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&cache_seconds=1800" alt="Ashvath's GitHub Stats"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ashvath-411&theme=transparent&hide_border=true&background=0D1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="Ashvath's GitHub Streak"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashvath-411&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/Ashvath-411/Ashvath-411/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashvath-411&label=Profile%20Views&color=0891b2&style=flat" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://github.com/Ashvath-411/Ashvath-411/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
