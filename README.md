@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=150&section=header&text=Ashvath%20Parameswaran&fontSize=70&fontColor=00D4FF&animation=twinkle" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=150&section=header&text=Your%Name=70&fontColor=00D4FF&animation=twinkle" />
 
   <p>
     <b>2nd Year B.Tech IT @ SSN College of Engineering</b><br>
