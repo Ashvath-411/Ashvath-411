@@ -85,4 +85,5 @@ Currently exploring ML and working on <a href="https://heroic-twilight-d6f195.ne
 
 <p align="center">
   <img src="https://github.com/Ashvath-411/Ashvath-411/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+</p> 
+
