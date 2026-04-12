@@ -27,7 +27,7 @@ Currently exploring ML and working on <a href="https://heroic-twilight-d6f195.ne
   <a href="mailto:ashvath.paramesh@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="YOUR_PORTFOLIO_LINK_HERE">
+  <a href="ashvath.me">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
