@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Section -->
-<a href="YOUR_PORTFOLIO_LINK_HERE">
+<a href="https://ashvath-411.github.io/Portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2800&pause=2000&color=0891B2&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Ashvath!" alt="Typing SVG" />
 </a>
 
