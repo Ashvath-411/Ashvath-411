@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2800&pause=2000&color=0891B2&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Ashvath!" alt="Typing SVG" />
 </a>
 
-<h2><strong>2nd Year IT Student @ SSN College of Engineering</strong></h2>
+<h2><strong>3rd Year IT Student @ SSN College of Engineering</strong></h2>
 
 <h4>I build stuff, mess around with code, and try to make things look good.<br/>
 Currently exploring ML and working on <a href="https://heroic-twilight-d6f195.netlify.app/"><strong>GigFlow</strong></a> - a finance tracker for gig workers.</h4>
